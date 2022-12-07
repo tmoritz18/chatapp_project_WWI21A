@@ -2,10 +2,10 @@
 ##### Moritz Tritschler, Cedric Schnee, Fabian Strazic, Anabelle Tritschler
 #
 
-> **Für Welche Programmiersprachen haben wir uns entschieden und wieso?** 
+>### **Für Welche Programmiersprachen haben wir uns entschieden und wieso?** 
 
 - PHP: 
-    - **Verknüpfung mit Datenbanken**: Eines der besten Eigenschaften an PHP ist es, dass man sie mit einer Vielzahl an Datenbaken verknüpfen kann. Unteranderem auch MySQL. Datenbanken sind für dies Projekt unerlässlich. 
+    - **Verknüpfung mit Datenbanken**: Eines der besten Eigenschaften an PHP ist es, dass man sie mit einer Vielzahl an Datenbaken verknüpfen kann. Unteranderem auch MySQL. Datenbanken sind für dieses Projekt unerlässlich. 
     - **Eingebette Programmierung mit HTML**: PHP lässt sich einfach mit HTML verknüpfen bzw. einbetten. Da das Projekt eine Webanwendung werden soll, ist dies optimal. 
     - **Vertraut**: Mit PHP haben wir bereits in unserer Studentenlaufbahn Kontakt gehabt, weshakb diese Programmiersprache nicht neu für uns ist. Einige Funktionen konnten wir bereits im Vorfeld, sodass keine "riesen" Recherche notwendig war. 
 - JavaSkript: 
@@ -16,8 +16,8 @@
     - **Funktionieren perfekt zusammen**: phpmyadmin unterstüzt die meisten MySQL Befehle
 - CSS: 
     - **Style**: CSS wird für die optmierung der Web Anwendung verwendet
->**Erklärung des Codes**
-- **/chatapp/group**
+>### **Erklärung des Codes**
+ - **/chatapp/group**
     - index.php: 
     - "log.html": 
     - post.php:
